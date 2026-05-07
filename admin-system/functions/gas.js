@@ -2,7 +2,7 @@
 // Cloudflare Pages Function — เป็น endpoint /gas อัตโนมัติ
 // Browser → POST/GET /gas → ฟังก์ชันนี้ → GAS → ส่งกลับ
 
-const GAS_URL = 'https://script.google.com/macros/s/AKfycbyWcSOtraynb2xh95KOKmkGezJX9EBcph8lNQAMARmpAQGMd-losgMJb9vSmfw88prs/exec';
+const GAS_URL = 'https://script.google.com/macros/s/AKfycbwLpt_6j0LGx98yRpgEnWRu_8PbZg0hc0g0HN-59tFyHxLIN7JKrihmkqWvYO1JLbI3bA/exec';
 
 const CORS = {
   'Access-Control-Allow-Origin':  '*',
