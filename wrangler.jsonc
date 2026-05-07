@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "admin-control-book",
+  "compatibility_date": "2026-05-07",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "admin-system"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
